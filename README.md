@@ -244,9 +244,14 @@ After setting up both backend and frontend, you can access the application at `h
 
 ## Screenshots
 
-![Home Page](path/to/homepage_screenshot.png)
-![Flight Status Board](path/to/status_board_screenshot.png)
-![Notification Settings](path/to/notification_settings_screenshot.png)
+![All Flights Status](https://github.com/user-attachments/assets/b0cdb3dc-50d9-474e-a965-d7775299da9b)
+
+
+![update/Add Flight Status](https://github.com/user-attachments/assets/aca0d8e7-74e3-4bad-ae95-320b1bb75daf)
+
+
+
+![Check Flight Status](https://github.com/user-attachments/assets/c76b586a-c31e-4465-a70c-6aa8117ad098)
 
 ## Video Demo
 
