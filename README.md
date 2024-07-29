@@ -2,7 +2,8 @@
 
 ## Hack to Hire 2024 - Full Stack Developer Case Study
 
-![Project Banner](path/to/project_banner.png)
+![hack-to-hire](https://github.com/user-attachments/assets/d27d6198-511c-44a0-b239-1172eaa1d79f)
+
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
