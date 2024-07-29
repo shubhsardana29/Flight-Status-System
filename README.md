@@ -115,12 +115,14 @@ The backend of this project is built with Python using FastAPI. Follow these ste
     #### Here's how to obtain each of these credentials:
 
     1. **MONGO_CONNECTION_STRING**:
+
     - Sign up for a free account at [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
     - Create a new cluster
     - Click "Connect" on your cluster, then "Connect your application"
     - Copy the connection string, replacing `<password>` with your database user's password
 
     2. **SMTP_SERVER, SMTP_PORT, SMTP_USERNAME, SMTP_PASSWORD** (for Gmail):
+
     - SMTP_SERVER: Use `smtp.gmail.com`
     - SMTP_PORT: Use `587`
     - SMTP_USERNAME: Your full Gmail address
@@ -131,6 +133,7 @@ The backend of this project is built with Python using FastAPI. Follow these ste
         - Use the generated 16-character password
 
     3. **TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, TWILIO_PHONE_NUMBER**:
+
     - Sign up for a free account at [Twilio](https://www.twilio.com/)
     - Find your Account SID and Auth Token on the [Twilio Console Dashboard](https://www.twilio.com/console)
     - To get a Twilio phone number:
@@ -234,7 +237,7 @@ The frontend of this project is built with React using Vite as the build tool. F
 
 After setting up both backend and frontend, you can access the application at `http://localhost:5173`. Register an account, log in, and start tracking flights. You'll receive real-time updates and notifications for any changes to flight statuses.
 
-## Sytem Design
+## System Design
 
 
 
