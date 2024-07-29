@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8000';
+// const API_URL = 'http://localhost:8000';
+const API_URL = 'https://flight-status-system.onrender.com';
 
 export async function getFlightStatus(flightId) {
   const token = localStorage.getItem("token");

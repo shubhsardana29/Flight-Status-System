@@ -62,7 +62,7 @@ function FlightStatus() {
   );
 
   const { wsConnected } = useWebSocket(
-    "ws://localhost:8000/ws",
+    "wss://flight-status-system.onrender.com/ws",
     handleWebSocketMessage
   );
 
