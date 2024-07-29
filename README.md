@@ -240,6 +240,8 @@ After setting up both backend and frontend, you can access the application at `h
 
 ## System Design
 
+<img width="1440" alt="Screenshot 2024-07-29 at 10 45 27 PM" src="https://github.com/user-attachments/assets/0e766d02-00d8-4f85-b451-46fa480486b3">
+
 
 
 ## Screenshots
