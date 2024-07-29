@@ -1,0 +1,36 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+
+# FastAPI specific
+*.db
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.swp
+*.swo
+*.ds_store
+
+# Misc
+*.coverage
+*.tox
+*.nox
+*.coverage
+*.hypothesis/
+*.pytest_cache/
+
+
+serviceAccountKey.json
