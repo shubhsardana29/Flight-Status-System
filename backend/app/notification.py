@@ -53,7 +53,7 @@ async def send_notification(flight_status):
     Gate: {flight_status.gate if flight_status.gate else 'Not Assigned'}
     Delay: {flight_status.delay if flight_status.delay is not None else 'No Delay'}
     """
-    recipient = "olah10161@gmail.com"  # replace with flight booked user's email
+    recipient = "shubhsardana31.ss@gmail.com"  # replace with flight booked user's email
     try:
         send_email(subject, recipient, body)
         print(f"Email sent successfully to {recipient}")
