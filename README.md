@@ -257,7 +257,7 @@ After setting up both backend and frontend, you can access the application at `h
 
 ## Video Demo
 
-[Link to Video Demo](https://youtu.be/your_video_id)
+[Link to Video Demo](https://www.loom.com/share/fedfbc4515414617ab8f4ef3fac735e1?sid=dd1c29e0-fd0f-48cf-aded-3a764625c286)
 
 ## Future Enhancements
 
